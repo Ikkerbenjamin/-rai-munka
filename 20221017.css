@@ -3,6 +3,29 @@ table , td , th {
     border-collapse: collapse;
 }
 
+table {
+    width: 100%;
+}
+
 div p {
     background-color: aqua;
+}
+th {
+    background-color: #222;
+    color: #CCC;
+}
+
+td, th {
+    padding: 10px;
+}
+.kozep {
+    text-align: center;
+}
+body {
+    margin: 0;
+}
+
+hr {
+    margin: 40px 0;
+    border: 5px solid black;
 }
