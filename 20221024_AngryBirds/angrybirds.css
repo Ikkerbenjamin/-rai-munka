@@ -1,0 +1,36 @@
+body {
+    background-image: url("Hatter.png");
+    background-repeat: repeat-y;
+    background-size: 100%;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-decoration: underline;
+}
+.kiemelt {
+    font-style: italic; color: blue;
+}
+.fontos {
+    color: red; font-weight: bold;
+}
+p {
+    text-align: justify;
+}
+table {
+    border: 2px solid blue;
+
+    border-collapse: collapse;
+    background-color: lightgrey;
+}
+td {
+    border: 1px solid blue;
+    padding: 10px;}
+
+
+img {
+    display: block;
+    width: 400px;
+    margin: auto;
+}
